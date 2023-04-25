@@ -1,4 +1,19 @@
 .odd {
     background-color:  #ffcccb;
-    font-family: Verdana, 'Dejavu Sans', sans-serif;     
+    font-family: Verdana, 'Dejavu Sans', sans-serif;   
+}  
+
+#unique {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#unique1 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
